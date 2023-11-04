@@ -1,2 +1,0 @@
-# .github
-Descripción de Orbita
